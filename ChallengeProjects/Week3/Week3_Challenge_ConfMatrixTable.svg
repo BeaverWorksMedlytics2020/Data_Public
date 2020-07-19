@@ -12,8 +12,8 @@
    id="svg466"
    version="1.1"
    overflow="hidden"
-   height="720"
-   width="1280">
+   height="328.98419"
+   width="723.16028">
   <metadata
      id="metadata470">
     <rdf:RDF>
@@ -27,12 +27,16 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      inkscape:current-layer="g464"
      inkscape:window-maximized="0"
      inkscape:window-y="68"
      inkscape:window-x="1616"
-     inkscape:cy="360"
-     inkscape:cx="1071.8489"
+     inkscape:cy="164.4921"
+     inkscape:cx="793.42746"
      inkscape:zoom="0.57890625"
      showgrid="false"
      id="namedview468"
@@ -54,7 +58,7 @@
          id="path241"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M0 0 1280 0 1280 720 0 720Z" />
+         d="M 0,0 H 1280 V 720 H 0 Z" />
     </clipPath>
     <clipPath
        id="clip1">
@@ -62,7 +66,7 @@
          id="path244"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M388 85 520 85 520 355 388 355Z" />
+         d="M 388,85 H 520 V 355 H 388 Z" />
     </clipPath>
     <clipPath
        id="clip2">
@@ -70,7 +74,7 @@
          id="path247"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M519 85 643 85 643 355 519 355Z" />
+         d="M 519,85 H 643 V 355 H 519 Z" />
     </clipPath>
     <clipPath
        id="clip3">
@@ -78,7 +82,7 @@
          id="path250"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M642 85 775 85 775 355 642 355Z" />
+         d="M 642,85 H 775 V 355 H 642 Z" />
     </clipPath>
     <clipPath
        id="clip4">
@@ -86,7 +90,7 @@
          id="path253"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M774 85 902 85 902 355 774 355Z" />
+         d="M 774,85 H 902 V 355 H 774 Z" />
     </clipPath>
     <clipPath
        id="clip5">
@@ -94,7 +98,7 @@
          id="path256"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M901 85 1035 85 1035 355 901 355Z" />
+         d="m 901,85 h 134 V 355 H 901 Z" />
     </clipPath>
     <clipPath
        id="clip6">
@@ -102,7 +106,7 @@
          id="path259"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M245 148 389 148 389 418 245 418Z" />
+         d="M 245,148 H 389 V 418 H 245 Z" />
     </clipPath>
     <clipPath
        id="clip7">
@@ -110,7 +114,7 @@
          id="path262"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M245 204 389 204 389 474 245 474Z" />
+         d="M 245,204 H 389 V 474 H 245 Z" />
     </clipPath>
     <clipPath
        id="clip8">
@@ -118,7 +122,7 @@
          id="path265"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M245 260 389 260 389 530 245 530Z" />
+         d="M 245,260 H 389 V 530 H 245 Z" />
     </clipPath>
     <clipPath
        id="clip9">
@@ -126,7 +130,7 @@
          id="path268"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M245 316 389 316 389 586 245 586Z" />
+         d="M 245,316 H 389 V 586 H 245 Z" />
     </clipPath>
     <clipPath
        id="clip10">
@@ -134,206 +138,207 @@
          id="path271"
          clip-rule="evenodd"
          fill-rule="evenodd"
-         d="M245 372 389 372 389 642 245 642Z" />
+         d="M 245,372 H 389 V 642 H 245 Z" />
     </clipPath>
   </defs>
   <g
+     transform="translate(-278.42139,-195.5079)"
      id="g464"
      clip-path="url(#clip0)">
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path278"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="M 2.3111089,70.486104 H 233.16645 V 196.95145 H 2.3111089 Z" />
+       d="M 279.03133,196.11815 H 409.709 v 71.58681 H 279.03133 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path280"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="M 233.16645,70.486104 H 445.09821 V 196.95145 H 233.16645 Z" />
+       d="m 409.709,196.11815 h 119.96581 v 71.58681 H 409.709 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path282"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="M 445.09821,70.486104 H 643.78282 V 196.95145 H 445.09821 Z" />
+       d="m 529.67481,196.11815 h 112.46714 v 71.58681 H 529.67481 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path284"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="M 643.78282,70.486104 H 857.60726 V 196.95145 H 643.78282 Z" />
+       d="m 642.14195,196.11815 h 121.03718 v 71.58681 H 642.14195 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path286"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="M 857.60726,70.486104 H 1061.9699 V 196.95145 H 857.60726 Z" />
+       d="m 763.17913,196.11815 h 115.68124 v 71.58681 H 763.17913 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path288"
        fill-rule="evenodd"
        fill="#d9d9d9"
-       d="m 1061.9699,70.486104 h 215.722 V 196.95145 h -215.722 z" />
+       d="m 878.86037,196.11815 h 122.11133 v 71.58681 H 878.86037 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path290"
        fill-rule="evenodd"
        fill="#b4c7e7"
-       d="M 2.3111089,196.95145 H 233.16645 v 90.51249 H 2.3111089 Z" />
+       d="M 279.03133,267.70496 H 409.709 v 51.23537 H 279.03133 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path292"
        fill-rule="evenodd"
        fill="#b4c7e7"
-       d="M 2.3111089,287.46394 H 233.16645 v 90.51249 H 2.3111089 Z" />
+       d="M 279.03133,318.94033 H 409.709 v 51.23538 H 279.03133 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path294"
        fill-rule="evenodd"
        fill="#b4c7e7"
-       d="M 2.3111089,377.97643 H 233.16645 v 90.51249 H 2.3111089 Z" />
+       d="M 279.03133,370.17571 H 409.709 v 51.23538 H 279.03133 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path296"
        fill-rule="evenodd"
        fill="#b4c7e7"
-       d="M 2.3111089,468.48892 H 233.16645 v 90.51249 H 2.3111089 Z" />
+       d="M 279.03133,421.41109 H 409.709 v 51.23538 H 279.03133 Z" />
     <path
-       style="stroke-width:1.61629"
+       style="stroke-width:0.914915"
        id="path298"
        fill-rule="evenodd"
        fill="#b4c7e7"
-       d="M 2.3111089,559.00141 H 233.16645 V 649.5139 H 2.3111089 Z" />
+       d="M 279.03133,472.64647 H 409.709 v 51.23538 H 279.03133 Z" />
     <path
        id="path300"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 233.16645,69.408036 V 650.59196" />
+       d="M 409.709,195.5079 V 524.49209" />
     <path
        id="path302"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 445.09821,69.408036 V 650.59196" />
+       d="M 529.67481,195.5079 V 524.49209" />
     <path
        id="path304"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 643.78282,69.408036 V 650.59196" />
+       d="M 642.14195,195.5079 V 524.49209" />
     <path
        id="path306"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 857.60726,69.408036 V 650.59196" />
+       d="M 763.17913,195.5079 V 524.49209" />
     <path
        id="path308"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1061.9699,69.408036 V 650.59196" />
+       d="M 878.86037,195.5079 V 524.49209" />
     <path
        id="path310"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,196.95145 H 1278.7586" />
+       d="m 278.422,267.70496 h 723.1535" />
     <path
        id="path312"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,287.46394 H 1278.7586" />
+       d="m 278.422,318.94033 h 723.1535" />
     <path
        id="path314"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,377.97643 H 1278.7586" />
+       d="m 278.422,370.17571 h 723.1535" />
     <path
        id="path316"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,468.48892 H 1278.7586" />
+       d="m 278.422,421.41109 h 723.1535" />
     <path
        id="path318"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,559.00141 H 1278.7586" />
+       d="m 278.422,472.64647 h 723.1535" />
     <path
        id="path320"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 2.3111089,69.408036 V 650.59196" />
+       d="M 279.03133,195.5079 V 524.49209" />
     <path
        id="path322"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1277.6919,69.408036 V 650.59196" />
+       d="M 1000.9717,195.5079 V 524.49209" />
     <path
        id="path324"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,70.486104 H 1278.7586" />
+       d="m 278.422,196.11815 h 723.1535" />
     <path
        id="path326"
        fill-rule="evenodd"
        fill="none"
        stroke-miterlimit="10"
        stroke-linejoin="round"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#000000"
-       d="M 1.2346568,649.5139 H 1278.7586" />
+       d="m 278.422,523.88185 h 723.1535" />
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g330"
        clip-path="url(#clip1)">
       <text
@@ -344,7 +349,7 @@
          font-family="Arial, Arial_MSFontService, sans-serif">0 (Neg)</text>
     </g>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g334"
        clip-path="url(#clip2)">
       <text
@@ -355,7 +360,7 @@
          font-family="Arial, Arial_MSFontService, sans-serif">1 (BC)</text>
     </g>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g338"
        clip-path="url(#clip3)">
       <text
@@ -366,7 +371,7 @@
          font-family="Arial, Arial_MSFontService, sans-serif">2 (BM)</text>
     </g>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g342"
        clip-path="url(#clip4)">
       <text
@@ -377,7 +382,7 @@
          font-family="Arial, Arial_MSFontService, sans-serif">3 (MC)</text>
     </g>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g346"
        clip-path="url(#clip5)">
       <text
@@ -388,7 +393,7 @@
          font-family="Arial, Arial_MSFontService, sans-serif">4 (MM)</text>
     </g>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g350"
        clip-path="url(#clip6)">
       <text
@@ -399,47 +404,47 @@
          font-family="Arial, Arial_MSFontService, sans-serif">0 (Neg)</text>
     </g>
     <text
-       style="stroke-width:1.61629"
-       y="261.40604"
-       x="309.63495"
+       style="stroke-width:0.914915"
+       y="304.19003"
+       x="452.99466"
        id="text368"
-       font-size="51.7214px"
+       font-size="29.2773px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">+2<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan352"
-   y="261.40604"
-   x="521.40833">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="572.87079">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan354"
-   y="261.40604"
-   x="538.64929">1</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="582.63019">1</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan356"
-   y="261.40604"
-   x="727.66364">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="689.62341">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan358"
-   y="261.40604"
-   x="744.90466">1</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="699.38287">1</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan360"
-   y="261.40604"
-   x="936.7572">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="807.98267">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan362"
-   y="261.40604"
-   x="953.99823">3</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="817.74207">3</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan364"
-   y="261.40604"
-   x="1146.7963">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="304.19003"
+   x="926.87708">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan366"
-   y="261.40604"
-   x="1164.0372">3</tspan></text>
+   y="304.19003"
+   x="936.63647">3</tspan></text>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g372"
        clip-path="url(#clip7)">
       <text
@@ -450,47 +455,47 @@
          font-family="Arial, Arial_MSFontService, sans-serif">1 (BC)</text>
     </g>
     <text
-       style="stroke-width:1.61629"
-       y="351.91852"
-       x="316.10013"
+       style="stroke-width:0.914915"
+       y="355.42542"
+       x="456.65433"
        id="text390"
-       font-size="51.7214px"
+       font-size="29.2773px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">-<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan374"
-   y="351.91852"
-   x="333.34067">2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="466.41348">2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan376"
-   y="351.91852"
-   x="514.94312">+2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="569.21112">+2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan378"
-   y="351.91852"
-   x="727.66364">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="689.62341">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan380"
-   y="351.91852"
-   x="744.90466">1</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="699.38287">1</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan382"
-   y="351.91852"
-   x="936.7572">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="807.98267">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan384"
-   y="351.91852"
-   x="953.99823">3</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="817.74207">3</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan386"
-   y="351.91852"
-   x="1146.7963">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="355.42542"
+   x="926.87708">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan388"
-   y="351.91852"
-   x="1164.0372">3</tspan></text>
+   y="355.42542"
+   x="936.63647">3</tspan></text>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g394"
        clip-path="url(#clip8)">
       <text
@@ -501,47 +506,47 @@
          font-family="Arial, Arial_MSFontService, sans-serif">2 (BM)</text>
     </g>
     <text
-       style="stroke-width:1.61629"
-       y="442.43103"
-       x="316.10013"
+       style="stroke-width:0.914915"
+       y="406.6608"
+       x="456.65433"
        id="text412"
-       font-size="51.7214px"
+       font-size="29.2773px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">-<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan396"
-   y="442.43103"
-   x="333.34067">2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="466.41348">2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan398"
-   y="442.43103"
-   x="521.40833">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="572.87079">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan400"
-   y="442.43103"
-   x="538.64929">1</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="582.63019">1</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan402"
-   y="442.43103"
-   x="721.19849">+2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="685.96375">+2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan404"
-   y="442.43103"
-   x="936.7572">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="807.98267">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan406"
-   y="442.43103"
-   x="953.99823">3</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="817.74207">3</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan408"
-   y="442.43103"
-   x="1146.7963">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="406.6608"
+   x="926.87708">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan410"
-   y="442.43103"
-   x="1164.0372">3</tspan></text>
+   y="406.6608"
+   x="936.63647">3</tspan></text>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g416"
        clip-path="url(#clip9)">
       <text
@@ -552,47 +557,47 @@
          font-family="Arial, Arial_MSFontService, sans-serif">3 (MC)</text>
     </g>
     <text
-       style="stroke-width:1.61629"
-       y="532.94348"
-       x="316.10013"
+       style="stroke-width:0.914915"
+       y="457.89615"
+       x="456.65433"
        id="text434"
-       font-size="51.7214px"
+       font-size="29.2773px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">-<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan418"
-   y="532.94348"
-   x="333.34067">6</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="466.41348">6</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan420"
-   y="532.94348"
-   x="521.40833">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="572.87079">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan422"
-   y="532.94348"
-   x="538.64929">4</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="582.63019">4</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan424"
-   y="532.94348"
-   x="727.66364">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="689.62341">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan426"
-   y="532.94348"
-   x="744.90466">4</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="699.38287">4</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan428"
-   y="532.94348"
-   x="930.29205">+2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="804.323">+2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan430"
-   y="532.94348"
-   x="1146.7963">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="457.89615"
+   x="926.87708">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan432"
-   y="532.94348"
-   x="1164.0372">2</tspan></text>
+   y="457.89615"
+   x="936.63647">2</tspan></text>
     <g
-       transform="matrix(1.6162945,0,0,1.6162945,-394.42938,-221.866)"
+       transform="matrix(0.9149175,0,0,0.9149175,54.452943,30.62971)"
        id="g438"
        clip-path="url(#clip10)">
       <text
@@ -603,64 +608,64 @@
          font-family="Arial, Arial_MSFontService, sans-serif">4 (MM)</text>
     </g>
     <text
-       style="stroke-width:1.61629"
-       y="623.45599"
-       x="316.10013"
+       style="stroke-width:0.914915"
+       y="509.13156"
+       x="456.65433"
        id="text456"
-       font-size="51.7214px"
+       font-size="29.2773px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">-<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan440"
-   y="623.45599"
-   x="333.34067">6</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="466.41348">6</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan442"
-   y="623.45599"
-   x="521.40833">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="572.87079">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan444"
-   y="623.45599"
-   x="538.64929">4</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="582.63019">4</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan446"
-   y="623.45599"
-   x="727.66364">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="689.62341">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan448"
-   y="623.45599"
-   x="744.90466">4</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="699.38287">4</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan450"
-   y="623.45599"
-   x="936.7572">-</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="807.98267">-</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan452"
-   y="623.45599"
-   x="953.99823">2</tspan><tspan
-   style="stroke-width:1.61629"
+   y="509.13156"
+   x="817.74207">2</tspan><tspan
+   style="stroke-width:0.914915"
    id="tspan454"
-   y="623.45599"
-   x="1140.3311">+2</tspan></text>
+   y="509.13156"
+   x="923.21741">+2</tspan></text>
     <path
        id="path458"
        fill-rule="evenodd"
        fill="#b4c7e7"
        stroke-miterlimit="8"
-       stroke-width="2.15505"
+       stroke-width="1.21988"
        stroke="#2f528f"
-       d="M 2.3709118,197.56241 V 71.491439 L 233.50102,197.56241 Z" />
+       d="m 279.06518,268.05079 v -71.36356 l 130.8332,71.36356 z" />
     <text
-       style="stroke-width:1.61629"
-       y="178.97502"
-       x="8.3673639"
+       style="stroke-width:0.914915"
+       y="257.52924"
+       x="282.45953"
        id="text462"
-       font-size="56.5703px"
+       font-size="32.0221px"
        font-weight="400"
        font-family="Arial, Arial_MSFontService, sans-serif">Truth<tspan
-   style="stroke-width:1.61629"
+   style="stroke-width:0.914915"
    id="tspan460"
-   y="122.40472"
-   x="96.653084">Pred.</tspan></text>
+   y="225.50713"
+   x="332.43442">Pred.</tspan></text>
   </g>
 </svg>

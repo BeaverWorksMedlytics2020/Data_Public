@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Week3_Challenge_ConfMatrixTable_binary.svg"
+   id="svg760"
+   version="1.1"
+   overflow="hidden"
+   height="191.57767"
+   width="406.79733">
+  <metadata
+     id="metadata764">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g758"
+     inkscape:window-maximized="0"
+     inkscape:window-y="52"
+     inkscape:window-x="0"
+     inkscape:cy="6.8711507"
+     inkscape:cx="41.635241"
+     inkscape:zoom="0.83471746"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview762"
+     inkscape:window-height="1244"
+     inkscape:window-width="2156"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs694">
+    <clipPath
+       id="clip0">
+      <path
+         id="path679"
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         d="M 0,0 H 1280 V 720 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <path
+         id="path682"
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         d="M 580,180 H 712 V 450 H 580 Z" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path685"
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         d="M 711,180 H 843 V 450 H 711 Z" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         id="path688"
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         d="M 437,243 H 581 V 513 H 437 Z" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         id="path691"
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         d="M 437,299 H 581 V 569 H 437 Z" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-436.60133,-275.04033)"
+     id="g758"
+     clip-path="url(#clip0)">
+    <path
+       id="path698"
+       fill-rule="evenodd"
+       fill="#d9d9d9"
+       d="m 437.268,275.707 h 142.83 v 78.244 h -142.83 z" />
+    <path
+       id="path700"
+       fill-rule="evenodd"
+       fill="#d9d9d9"
+       d="m 580.098,275.707 h 131.121 v 78.244 H 580.098 Z" />
+    <path
+       id="path702"
+       fill-rule="evenodd"
+       fill="#d9d9d9"
+       d="m 711.219,275.707 h 131.513 v 78.244 H 711.219 Z" />
+    <path
+       id="path704"
+       fill-rule="evenodd"
+       fill="#b4c7e7"
+       d="m 437.268,353.951 h 142.83 v 56 h -142.83 z" />
+    <path
+       id="path706"
+       fill-rule="evenodd"
+       fill="#b4c7e7"
+       d="m 437.268,409.951 h 142.83 v 56 h -142.83 z" />
+    <path
+       id="path708"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 580.098,275.041 V 466.618" />
+    <path
+       id="path710"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 711.219,275.041 V 466.618" />
+    <path
+       id="path712"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 436.602,353.951 H 843.398" />
+    <path
+       id="path714"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 436.602,409.951 H 843.398" />
+    <path
+       id="path716"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 437.268,275.041 V 466.618" />
+    <path
+       id="path718"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 842.732,275.041 V 466.618" />
+    <path
+       id="path720"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 436.602,275.707 H 843.398" />
+    <path
+       id="path722"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-miterlimit="10"
+       stroke-linejoin="round"
+       stroke-width="1.33333"
+       stroke="#000000"
+       d="M 436.602,465.951 H 843.398" />
+    <g
+       id="g726"
+       clip-path="url(#clip1)">
+      <text
+         id="text724"
+         transform="translate(592.242,327)"
+         font-size="32px"
+         font-weight="400"
+         font-family="Arial, Arial_MSFontService, sans-serif">0 (Neg)</text>
+    </g>
+    <g
+       id="g730"
+       clip-path="url(#clip2)">
+      <text
+         id="text728"
+         transform="translate(729.809,327)"
+         font-size="32px"
+         font-weight="400"
+         font-family="Arial, Arial_MSFontService, sans-serif">1 (Pos)</text>
+    </g>
+    <g
+       id="g734"
+       clip-path="url(#clip3)">
+      <text
+         id="text732"
+         transform="translate(463.535,390)"
+         font-size="32px"
+         font-weight="400"
+         font-family="Arial, Arial_MSFontService, sans-serif">0 (Neg)</text>
+    </g>
+    <text
+       id="text740"
+       transform="translate(627.409,394)"
+       font-size="32px"
+       font-weight="400"
+       font-family="Arial, Arial_MSFontService, sans-serif">+2<tspan
+   id="tspan736"
+   y="0"
+   x="135.317">-</tspan><tspan
+   id="tspan738"
+   y="0"
+   x="145.98399">3</tspan></text>
+    <g
+       id="g744"
+       clip-path="url(#clip4)">
+      <text
+         id="text742"
+         transform="translate(467.202,446)"
+         font-size="32px"
+         font-weight="400"
+         font-family="Arial, Arial_MSFontService, sans-serif">1 (Pos)</text>
+    </g>
+    <text
+       id="text750"
+       transform="translate(631.409,450)"
+       font-size="32px"
+       font-weight="400"
+       font-family="Arial, Arial_MSFontService, sans-serif">-<tspan
+   id="tspan746"
+   y="0"
+   x="10.6666">6</tspan><tspan
+   id="tspan748"
+   y="0"
+   x="127.317">+2</tspan></text>
+    <path
+       id="path752"
+       fill-rule="evenodd"
+       fill="#b4c7e7"
+       stroke-miterlimit="8"
+       stroke-width="1.33333"
+       stroke="#2f528f"
+       d="m 437.5,354.5 v -78 l 143,78 z" />
+    <text
+       id="text756"
+       transform="translate(441.015,342)"
+       font-size="35px"
+       font-weight="400"
+       font-family="Arial, Arial_MSFontService, sans-serif">Truth<tspan
+   id="tspan754"
+   y="-35"
+   x="54.622299">Pred.</tspan></text>
+  </g>
+</svg>
